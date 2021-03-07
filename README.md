@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Social_page</h1>
+<h1 align="center">News_Page</h1>
 
 
 
@@ -17,7 +17,7 @@
 
 ## Overview
 
-  <img  src='./overview/social_page.gif' >
+  <img  src='./overview/news_page.gif' height=600>
 
 
 
@@ -38,8 +38,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 
-$ git clonehttps:https://github.com/Meltem-Karaagac/Social_page_React_Native
-
+$ git clonehttps:https:https://github.com/Meltem-Karaagac/News_page_ReactNative
 
 $ npm install
 
