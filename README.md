@@ -1,6 +1,6 @@
 
 
-<h1 align="center">News_Page</h1>
+<h1 align="center">News Page</h1>
 
 
 
